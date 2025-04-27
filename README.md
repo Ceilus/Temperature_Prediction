@@ -26,3 +26,6 @@ Mejoras futuras:
 Ajuste de hiperparámetros
 Incorporación de más características meteorológicas
 Implementación de atención para mejorar las predicciones
+
+Archivos necesarios:
+temperaturas_NEWYORK_2.csv: Dataset de temperaturas
